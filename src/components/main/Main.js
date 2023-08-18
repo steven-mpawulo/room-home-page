@@ -14,7 +14,7 @@ const Main = () => {
                 <h1>Discover innovate <span>ways to decorate</span></h1>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Et numquam animi eius eligendi accusantium, veniam esse ratione eos? Veniam repellendus deserunt ad sed quisquam laudantium eveniet doloribus fugiat id sequi!</p>
                 <div className="first-section-right-inner">
-                    <p>Shop now</p>
+                    <p>SHOP NOW</p>
                     <img src={arrowLeft} alt="arrow-left" />
                 </div>
             </div>

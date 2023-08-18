@@ -17,12 +17,16 @@
     height: 400px;
     display: flex;
     flex-direction: column;
-    align-items: center;
-    padding: 2%;
+    align-items: flex-start;
+    padding: 5%;
 
 }
 
 .first-section-right-inner {
     display: flex;
     align-items: center;
+}
+
+.first-section-right-inner p {
+    margin-right: 20px;
 }
