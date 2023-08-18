@@ -1,6 +1,7 @@
 header {
     width: 100%;
     display: flex;
+    align-items: center;
 }
 
 header nav ul {
@@ -11,4 +12,5 @@ header nav ul {
 header nav ul a {
     text-decoration: none;
     margin-right: 25px;
+    color: white;
 }
