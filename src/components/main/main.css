@@ -19,3 +19,8 @@
     flex-direction: column;
 
 }
+
+.first-section-right-inner {
+    display: flex;
+    align-items: center;
+}
