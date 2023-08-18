@@ -2,3 +2,13 @@ header {
     width: 100%;
     display: flex;
 }
+
+header nav ul {
+    display: flex;
+    list-style-type: none;
+}
+
+header nav ul a {
+    text-decoration: none;
+    margin-right: 25px;
+}
