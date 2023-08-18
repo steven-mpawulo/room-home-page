@@ -15,5 +15,7 @@
 .first-section-right {
     width: 50%;
     height: 400px;
+    display: flex;
+    flex-direction: column;
 
 }
