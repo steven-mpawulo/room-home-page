@@ -1,0 +1,17 @@
+.first-section {
+    display: flex;
+}
+
+.first-section-left {
+    width: 50%;
+    height: 400px;
+    background-image: url("../../images/desktop-image-hero-1\ -\ Copy.jpg");
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+}
+
+.first-section-right {
+    width: 50%;
+}
