@@ -25,6 +25,12 @@ const Main = () => {
                 </div>
             </div>
         </section>
+        <section className='second-section'>
+            <div className="second-section-first"></div>
+            <div className="second-section-second"></div>
+            <div className="second-section-third"></div>
+
+        </section>
     </main>
   )
 }
