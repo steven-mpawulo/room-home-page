@@ -2,6 +2,8 @@ import React from 'react'
 import Header from '../header/Header'
 import './main.css'
 import arrowLeft from '../../images/icon-arrow - Copy.svg'
+import angleLeft from '../../images/icon-angle-left - Copy.svg'
+import angleRight from '../../images/icon-angle-right - Copy.svg'
 
 const Main = () => {
   return (
@@ -16,6 +18,10 @@ const Main = () => {
                 <div className="first-section-right-inner">
                     <p>SHOP NOW</p>
                     <img src={arrowLeft} alt="arrow-left" />
+                </div>
+                <div className="container-for-angle-arrows">
+                    <img src={angleLeft} alt="angle-left" />
+                    <img src={angleRight} alt="amgle-right" />
                 </div>
             </div>
         </section>
