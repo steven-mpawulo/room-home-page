@@ -1,5 +1,6 @@
 .first-section {
     display: flex;
+    margin-bottom: 0;
 }
 
 .first-section-left {
@@ -53,4 +54,9 @@ color: grey;
     align-items: center;
     justify-content: space-around;
     margin-bottom: 0.0;
+}
+
+.second-section {
+    display: flex;
+    margin-top: 0;
 }
