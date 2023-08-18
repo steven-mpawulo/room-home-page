@@ -13,6 +13,7 @@
 }
 
 .first-section-right {
+    position: relative;
     width: 50%;
     height: 400px;
     display: flex;
@@ -35,4 +36,17 @@ h1 {
     margin-right: 20px;
     letter-spacing: 5px;
     color: hsl(0, 0%, 0%);
+}
+
+.container-for-angle-arrows {
+    position: relative;
+    left: -65px;
+    bottom: -38px;
+    display: flex;
+    width: 20%;
+    height: 15%;
+    background-color: hsl(0, 0%, 0%);
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 0.0;
 }
