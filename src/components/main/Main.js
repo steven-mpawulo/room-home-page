@@ -2,7 +2,12 @@ import React from 'react'
 
 const Main = () => {
   return (
-    <div>Main</div>
+    <main>
+        <section className='first-section'>
+            <div className="first-section-left"></div>
+            <div className="first-section-right"></div>
+        </section>
+    </main>
   )
 }
 
